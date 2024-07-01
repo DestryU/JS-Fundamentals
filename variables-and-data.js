@@ -59,7 +59,7 @@ let mod;
 
 add= 1+1;
 sub= 1-1;
-multi= 1*2;
+mult= 1*2;
 divi= 2/1;
 mod= 3%2;
 
